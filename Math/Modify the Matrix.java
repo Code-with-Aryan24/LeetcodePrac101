@@ -1,5 +1,6 @@
 class Solution {
-    public int[][] modifiedMatrix(int[][] matrix) {
+    public int[][] modifiedMatrix(int[][] matrix) 
+    {
         int rows = matrix.length;
         int cols = matrix[0].length;
 
